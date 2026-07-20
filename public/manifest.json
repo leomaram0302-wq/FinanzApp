@@ -1,0 +1,38 @@
+{
+  "name": "FinanzApp - Tu Crecimiento Financiero",
+  "short_name": "FinanzApp",
+  "description": "App de finanzas personales, educación interactiva y juegos para jóvenes y niños.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "id": "com.finanzapp.app",
+  "categories": ["finance", "education", "productivity"],
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/512/piggy-bank.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://img.icons8.com/color/192/piggy-bank.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/piggy-bank.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://img.icons8.com/color/192/piggy-bank.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

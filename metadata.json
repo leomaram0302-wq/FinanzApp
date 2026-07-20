@@ -1,0 +1,10 @@
+{
+  "name": "Remix: FinanzApp",
+  "description": "Aplicación de educación financiera y gestión de ahorro inteligente para jóvenes en el Perú, con gráficos de gastos en tiempo real y tutoría IA.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
